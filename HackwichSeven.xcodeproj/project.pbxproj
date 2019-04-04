@@ -12,6 +12,8 @@
 		9DDD3192225692A6000BE279 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DDD3190225692A6000BE279 /* Main.storyboard */; };
 		9DDD3194225692A8000BE279 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DDD3193225692A8000BE279 /* Assets.xcassets */; };
 		9DDD3197225692A8000BE279 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DDD3195225692A8000BE279 /* LaunchScreen.storyboard */; };
+		9DDD319F2256990A000BE279 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DDD319E2256990A000BE279 /* Restaurant.swift */; };
+		9DDD31A122569E79000BE279 /* School.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DDD31A022569E79000BE279 /* School.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		9DDD3193225692A8000BE279 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9DDD3196225692A8000BE279 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9DDD3198225692A8000BE279 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9DDD319E2256990A000BE279 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
+		9DDD31A022569E79000BE279 /* School.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = School.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				9DDD318C225692A6000BE279 /* AppDelegate.swift */,
 				9DDD318E225692A6000BE279 /* ViewController.swift */,
 				9DDD3190225692A6000BE279 /* Main.storyboard */,
+				9DDD319E2256990A000BE279 /* Restaurant.swift */,
+				9DDD31A022569E79000BE279 /* School.swift */,
 				9DDD3193225692A8000BE279 /* Assets.xcassets */,
 				9DDD3195225692A8000BE279 /* LaunchScreen.storyboard */,
 				9DDD3198225692A8000BE279 /* Info.plist */,
@@ -137,6 +143,8 @@
 			files = (
 				9DDD318F225692A6000BE279 /* ViewController.swift in Sources */,
 				9DDD318D225692A6000BE279 /* AppDelegate.swift in Sources */,
+				9DDD319F2256990A000BE279 /* Restaurant.swift in Sources */,
+				9DDD31A122569E79000BE279 /* School.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
